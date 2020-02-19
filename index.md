@@ -1,10 +1,10 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
+      <h1>时可</h1>
       <p><b>本科毕业生</b></p>
       <p><b>浙江万里大学信息与智能工程学院</b></p>
-      <p><b>邮箱：006276091@qq.com</b></p>
+      <p><b>邮箱：1006276091@qq.com</b></p>
       <p><b>地址：浙江省宁波市鄞州区钱湖南路8号浙江万里大学，53号楼，邮编315100</b></p>
     </td>
     <td width="25%">
@@ -18,36 +18,9 @@
 本人性格热情开朗，待人友好，为人诚实谦虚。工作勤奋，认真负责，能吃苦耐劳，尽职尽责，有耐心。具有亲和力，平易近人。
 学习刻苦认真，成绩优秀，喜欢琢磨问题。积极参加课外文体活动，各种社会实践活动和兼职工作等，以增加自己的阅历，提高自己的能力。在工作中体会办事方式，锻炼口才和人际交往能力
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shark-ke/Shark-ke.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 主修课程
+  本人专业：通信工程
+  主要学习：C语言程序设计、通信技术导论、计算机网络、JAVA面向对象程序设计、数字电子技术及实践、移动互联网时代的信息安全与防护、单片机原理及应用、电路与电子技术、数据库原理、通信原理及实践、光纤通信及实践、通信电子线路、通信专业模块导论、无线通信技术及实践、现代信息通信技术、移动通信、移动网站开发入门等。
+  主要研究：网络工程与安全模块中的的网络编程技术、网络工程技术、网络安全技术、网络应用综合实训等。
