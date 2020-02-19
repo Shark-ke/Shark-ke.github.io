@@ -8,7 +8,7 @@
       <p><b>地址：浙江省宁波市鄞州区钱湖南路8号浙江万里大学，53号楼，邮编315100</b></p>
     </td>
     <td >
-      <p<img src="/qqq.jpg" width="100%"><p>     
+      <p<img src="/qqq.jpg" width="100%"></p>     
     </td>
   </tr>
 </table>
