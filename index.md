@@ -1,14 +1,14 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>时可</h1>
-      <p><b>本科毕业生</b></p>
-      <p><b>浙江万里大学信息与智能工程学院</b></p>
-      <p><b>邮箱：1006276091@qq.com</b></p>
-  
+      <h1>毛励芝</h1>
+      <p><b>本科未毕业生</b></p>
+      <p><b>浙江万里学院-信息与智能工程学院</b></p>
+      <p><b>邮箱：pvflz@qq.com</b></p>
+      <p><b>地址：浙江省宁波市鄞州区钱湖南路8号浙江万里学院</b></p>
     </td>
     <td width="25%">
-      <img src="/qqq.jpg" width="100%">    
+      <img src="/qqq.jpg" width="100%">   
     </td>
   </tr>
 </table>
