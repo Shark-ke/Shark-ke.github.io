@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## 个人信息
 
-You can use the [editor on GitHub](https://github.com/Shark-ke/Shark-ke.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+本人性格热情开朗，待人友好，为人诚实谦虚。工作勤奋，认真负责，能吃苦耐劳，尽职尽责，有耐心。具有亲和力，平易近人。
+学习刻苦认真，成绩优秀，喜欢琢磨问题。积极参加课外文体活动，各种社会实践活动和兼职工作等，以增加自己的阅历，提高自己的能力。在工作中体会办事方式，锻炼口才和人际交往能力
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
